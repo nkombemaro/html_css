@@ -1,0 +1,60 @@
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+    main{
+    background-color: white;
+    padding: rgb(128, 0, 19);
+  
+}
+h1,h2{
+ color: #302c2c;
+
+}
+header img{
+    border: 1px ;
+    padding: 2px 8px 5px 25px;
+    margin: 2px;
+    border-radius: 8px;
+    max-width: 100px;
+}
+.Experience{
+    border: inset 1px;
+    margin-bottom: 3px;
+    padding: 3px;
+    background-color: purple;
+}
+.Experience.title{
+    font-weight: bold;
+}
+footer{
+    background-color: blue;
+    padding: 2px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 0%;
+    width: 100;
+}
+#menu li{
+    display: inline;
+    padding: 6px;
+    background-color: black;
+}
+#menu li a{
+    color: rgb(170, 35, 35) !important;
+    text-decoration: none;
+}
+header{
+    display: flex;
+    align-items: center;
+}
+image{
+    size: 0pc;
+    padding: 0cm;
+    shape-margin: 0ch;
+
+}
+
+
+
